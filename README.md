@@ -1,11 +1,5 @@
 # health_check
-
-health_check - Health check registry with dependencies, timeouts, and aggregation.
-
-## Usage
-
+Single-file Python CLI tool. Zero deps, Python 3.8+.
 ```bash
 python3 health_check.py --test
 ```
-
-Zero dependencies. Python 3.8+.
